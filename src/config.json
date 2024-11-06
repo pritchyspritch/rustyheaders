@@ -1,0 +1,9 @@
+{
+    "x-frame-options": {
+        "SAMEORIGIN": {
+            "description": "stuff",
+            "link": "https://google.com",
+            "misconfigured": true
+        }
+    }
+}
